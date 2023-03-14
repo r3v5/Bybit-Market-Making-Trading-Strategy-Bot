@@ -78,7 +78,7 @@ The best way to do this is:
 - Go to [Bybit testnet](https://testnet.bybit.com/app/terms-service/information) and create `Api key` and `Secret key`
 - `git clone https://github.com/turnMeUpSon/Market-Making-Trading-Strategy-Test.git`
 - `pip3 install -r requirements.txt`
-- Create `config.py` and paste `Api key` and `Secret key` from Bybit testnet account into your file like this: `API_KEY =  "your_api_key"`, `SECRET_KEY = "your_secret_key"`
+- Paste `Api key` and `Secret key` from Bybit testnet account into your `config.py` like this: `API_KEY =  "your_api_key"`, `SECRET_KEY = "your_secret_key"`
 - In order to start the bot, you should run this command in your terminal: `python market_maker_bot.py`
 - Then check your `Current orders` and `Trade History` in Spot trading in https://testnet.bybit.com/app/terms-service/information
 
