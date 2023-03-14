@@ -1,6 +1,6 @@
 # Introduction
 
-The main idea of this project is creating a market-making bot that trades a specific cryptocurrency on an exchange, using the exchange's APIs and WebSockets to receive real-time market data. The app was done by [**Ian Miller**](https://t.me/J0anix)
+The main idea of this project is creating a market-making bot that trades a specific cryptocurrency on an exchange, using the Bybit testnet API to receive real-time market data. The app was done by [**Ian Miller**](https://t.me/J0anix)
 
 # Brief explanation of understanding key concepts
 
