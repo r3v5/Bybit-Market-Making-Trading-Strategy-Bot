@@ -83,7 +83,6 @@ The best way to do this is:
 - Paste `Api key` and `Secret key` from Bybit testnet account into your `config.py` like this: `API_KEY =  "your_api_key"`, `SECRET_KEY = "your_secret_key"`
 - In order to start the bot, you should run this command in your terminal: `python market_maker_bot.py`
 - Then check your `Current orders` and `Trade History` in Spot trading in https://testnet.bybit.com/app/terms-service/information
--
 
 # Results
 
