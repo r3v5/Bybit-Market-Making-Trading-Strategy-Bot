@@ -89,6 +89,7 @@ The best way to do this is:
 ## 2023-03-13
 ![Image](https://github.com/turnMeUpSon/Market-Making-Trading-Strategy-Test/blob/main/Screenshot%20from%202023-03-13%2016-54-46.png)
 ## 2023-03-14
+![Image](https://github.com/turnMeUpSon/Bybit-Market-Making-Trading-Strategy-Bot/blob/main/Screenshot%20from%202023-03-14%2013-00-38.png)
 It's the fact that we bought cheaper and sold more expensive
 
 # My contacts
