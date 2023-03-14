@@ -85,4 +85,4 @@ The best way to do this is:
 # My contacts
 
 - [Telegram](https://t.me/J0anix)
-- [Gmail](milleryan2003@gmail.com)
+- milleryan2003@gmail.com
