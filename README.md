@@ -70,17 +70,25 @@ The best way to do this is:
 # Technology stack
 
 - Python 3.10.6
+- Virtualenv
 - [ccxt](https://github.com/ccxt/ccxt)
 - [Bybit testnet](https://testnet.bybit.com/app/terms-service/information)
 
 # Get started
 
 - Go to [Bybit testnet](https://testnet.bybit.com/app/terms-service/information) and create `Api key` and `Secret key`
+  ![Image](https://github.com/turnMeUpSon/Market-Making-Trading-Strategy-Test/blob/main/Screenshot%20from%202023-03-14%2009-44-01.png)
 - `git clone https://github.com/turnMeUpSon/Market-Making-Trading-Strategy-Test.git`
 - `pip3 install -r requirements.txt`
 - Paste `Api key` and `Secret key` from Bybit testnet account into your `config.py` like this: `API_KEY =  "your_api_key"`, `SECRET_KEY = "your_secret_key"`
 - In order to start the bot, you should run this command in your terminal: `python market_maker_bot.py`
 - Then check your `Current orders` and `Trade History` in Spot trading in https://testnet.bybit.com/app/terms-service/information
+-
+
+# Results
+
+![Image](https://github.com/turnMeUpSon/Market-Making-Trading-Strategy-Test/blob/main/Screenshot%20from%202023-03-13%2016-54-46.png)
+It's the fact that we bought cheaper and sold more expensive
 
 # My contacts
 
