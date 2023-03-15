@@ -49,7 +49,7 @@ while True:
     for buy_order in buy_orders:
         print("checking for open buy orders {}".format(buy_order['orderId']))
         try:
-            order = exchange.fetc_order(buy_order['orderId'])
+            order = exchange.fetch_order(buy_order['orderId'])
         except Exception as e:
             print("request failed, retrying")
             continue
