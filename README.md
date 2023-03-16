@@ -81,6 +81,7 @@ The best way to do this is:
 - `git clone https://github.com/turnMeUpSon/Market-Making-Trading-Strategy-Test.git`
 - `pip3 install -r requirements.txt`
 - Paste `Api key` and `Secret key` from Bybit testnet account into your `config.py` like this: `API_KEY =  "your_api_key"`, `SECRET_KEY = "your_secret_key"`
+- Claim test USDT on Bybit testnet exchange
 - In order to start the bot, you should run this command in your terminal: `python market_maker_bot.py`
 - Then check your `Current orders` and `Trade History` in Spot trading in https://testnet.bybit.com/app/terms-service/information
 
